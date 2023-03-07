@@ -19,5 +19,5 @@
 
 ## 我们的团队 Our Team   
   [Benton Li](https://github.com/bentondecusin/)    
-  [裴奕博](https://github.com/pyb0924)    
+  [pyb0924](https://github.com/pyb0924)    
   [李玉豪](https://github.com/Yggdrasils35)   
